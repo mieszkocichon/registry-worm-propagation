@@ -21,7 +21,7 @@ Unpack the packages so that the paths match the original layout:
 
 - `ecosyste_ms/npm_metadata.jsonl`, `npm_control_maintainers.jsonl` -> `data/npm/`
 - `ecosyste_ms/maintainers_backfill.jsonl`, `dependents_backfill.jsonl` -> `data/ecosyste_ms/`
-- `ecosyste_ms/cross_ecosystem/*.jsonl` -> `data/cross_ecosystem/`
+- `ecosyste_ms/cross_ecosystem_<registry>_maintainers.jsonl` -> `data/cross_ecosystem/<registry>_maintainers.jsonl`
 - `deps_dev/deps_dev_data.jsonl` -> `data/npm/`
 - `osv/*.csv`: concatenate (same header) into `data/npm/osv_npm_vulnerabilities_filtered.csv`
 

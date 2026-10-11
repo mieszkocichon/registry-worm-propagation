@@ -75,7 +75,7 @@ def main():
     jsonl(d / "ecosyste_ms" / "maintainers_backfill.jsonl", o / "ecosyste_ms" / "maintainers_backfill.jsonl", p)
     shutil.copy(d / "ecosyste_ms" / "dependents_backfill.jsonl", o / "ecosyste_ms" / "dependents_backfill.jsonl")
     for eco in ("pypi", "crates", "rubygems"):
-        jsonl(d / "cross_ecosystem" / f"{eco}_maintainers.jsonl", o / "ecosyste_ms" / "cross_ecosystem" / f"{eco}_maintainers.jsonl", p)
+        jsonl(d / "cross_ecosystem" / f"{eco}_maintainers.jsonl", o / "ecosyste_ms" / f"cross_ecosystem_{eco}_maintainers.jsonl", p)
     (o / "deps_dev").mkdir(parents=True, exist_ok=True)
     shutil.copy(d / "npm" / "deps_dev_data.jsonl", o / "deps_dev" / "deps_dev_data.jsonl")
 

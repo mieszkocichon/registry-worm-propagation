@@ -11,7 +11,7 @@ released under CC BY-SA 4.0.
 
 Contents: `npm_metadata.jsonl`, `maintainers_backfill.jsonl`,
 `dependents_backfill.jsonl`, `npm_control_maintainers.jsonl`,
-`cross_ecosystem/{pypi,crates,rubygems}_maintainers.jsonl`.
+`cross_ecosystem_{pypi,crates,rubygems}_maintainers.jsonl`.
 
 Provenance caveats:
 - `npm_metadata.jsonl` additionally contains publish timestamps and maintainer
