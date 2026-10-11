@@ -7,7 +7,7 @@ because the sources are licensed differently and must not be mixed in one file:
 | Package | Contents | Licence | Zenodo |
 |---|---|---|---|
 | `osv/` | npm records from OSV.dev, split by source database | Apache-2.0 (`MAL-`), CC BY 4.0 (`GHSA-`), CC0 (`GSD-`) | [10.5281/zenodo.23300302](https://doi.org/10.5281/zenodo.23300302) |
-| `ecosyste_ms/` | ownership and dependents records adapted from ecosyste.ms | CC BY-SA 4.0 | pending |
+| `ecosyste_ms/` | ownership and dependents records adapted from ecosyste.ms | CC BY-SA 4.0 | [10.5281/zenodo.23300638](https://doi.org/10.5281/zenodo.23300638) |
 | `deps_dev/` | dependency records from deps.dev | CC BY 4.0 | [10.5281/zenodo.23300151](https://doi.org/10.5281/zenodo.23300151) |
 
 Each package ships its own `NOTICE.md`, licence texts and `SHA256SUMS`. Why they
