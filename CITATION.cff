@@ -9,6 +9,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-11"
 license: MIT
+doi: "10.5281/zenodo.23300531"
 repository-code: "https://github.com/mieszkocichon/registry-worm-propagation"
 keywords:
   - software supply chain security

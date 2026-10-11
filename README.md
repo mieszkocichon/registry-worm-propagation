@@ -4,6 +4,8 @@ Code and small result files for the study of how far a credential-stealing,
 self-propagating registry worm reaches through the co-maintainer graph compared
 with the dependency graph (npm, with cross-checks on PyPI, crates.io, RubyGems).
 
+Archived release: [10.5281/zenodo.23300531](https://doi.org/10.5281/zenodo.23300531) (all versions; v1.0.0 is 10.5281/zenodo.23300532).
+
 This repository contains **analysis and simulation code only**. It holds no
 malware samples or package contents: the inputs are registry metadata (package
 names, timestamps, maintainer handles), and the simulations are in-memory
