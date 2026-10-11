@@ -1,0 +1,110 @@
+{
+  "n_resolved": 213096,
+  "tier_counts": {
+    "exact": 16781,
+    "bounded": 196206,
+    "proxy": 109
+  },
+  "correction_days": {
+    "exact": {
+      "n": 16781,
+      "mean": 73.61144045495126,
+      "median": 3.3900858333333335,
+      "p90": 377.06240425925927,
+      "pct_gt_100d": 15.46987664620702
+    },
+    "bounded": {
+      "n": 196206,
+      "mean": 576.5679509030217,
+      "median": 539.9462385011575,
+      "p90": 555.6760417245371,
+      "pct_gt_100d": 93.42272917240044
+    }
+  },
+  "seed_tiers": [
+    "exact"
+  ],
+  "n_rejected": 20,
+  "seeds": [
+    {
+      "package": "hyperterm-hipster",
+      "malicious_publish": "2017-02-21 09:37:56.399000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 3,
+      "human_maintainers": 1,
+      "max_pre_hijack_portfolio": 10
+    },
+    {
+      "package": "tsconfig-slick",
+      "malicious_publish": "2019-02-19 22:17:33.954000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 1,
+      "human_maintainers": 1,
+      "max_pre_hijack_portfolio": 2
+    },
+    {
+      "package": "1co",
+      "malicious_publish": "2020-12-01 16:20:25.319000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 1,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 3
+    },
+    {
+      "package": "88q",
+      "malicious_publish": "2020-12-01 17:28:57.302000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 2,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 4
+    },
+    {
+      "package": "1mi",
+      "malicious_publish": "2021-01-02 13:03:39.189000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 2,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 5
+    },
+    {
+      "package": "11j",
+      "malicious_publish": "2021-01-15 16:27:20.233000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 11,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 6
+    },
+    {
+      "package": "4m-clean-shopify-app",
+      "malicious_publish": "2021-03-23 06:15:16.974000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 2,
+      "human_maintainers": 1,
+      "max_pre_hijack_portfolio": 2
+    },
+    {
+      "package": "8q",
+      "malicious_publish": "2021-04-04 16:48:55.078000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 73,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 6
+    },
+    {
+      "package": "6cc",
+      "malicious_publish": "2021-06-08 02:14:14.131000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 46,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 7
+    },
+    {
+      "package": "66o",
+      "malicious_publish": "2021-07-12 16:35:04.681000+00:00",
+      "date_tier": "exact",
+      "pre_hijack_versions": 2,
+      "human_maintainers": 3,
+      "max_pre_hijack_portfolio": 8
+    }
+  ]
+}

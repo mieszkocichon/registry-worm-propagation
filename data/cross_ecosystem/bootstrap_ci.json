@@ -1,0 +1,50 @@
+{
+  "pypi": {
+    "n": 14250,
+    "gini": 0.9452,
+    "gini_ci": [
+      0.9422,
+      0.9478
+    ],
+    "gini_halfwidth": 0.0028,
+    "mean": 4.698,
+    "mean_ci": [
+      4.182,
+      5.244
+    ],
+    "mean_rel_pct": 11.3,
+    "hill_alpha": 0.797
+  },
+  "crates": {
+    "n": 11770,
+    "gini": 0.7663,
+    "gini_ci": [
+      0.7604,
+      0.7721
+    ],
+    "gini_halfwidth": 0.0058,
+    "mean": 12.421,
+    "mean_ci": [
+      11.844,
+      12.993
+    ],
+    "mean_rel_pct": 4.63,
+    "hill_alpha": 2.715
+  },
+  "rubygems": {
+    "n": 11281,
+    "gini": 0.8768,
+    "gini_ci": [
+      0.8717,
+      0.8816
+    ],
+    "gini_halfwidth": 0.005,
+    "mean": 16.76,
+    "mean_ci": [
+      15.521,
+      18.066
+    ],
+    "mean_rel_pct": 7.59,
+    "hill_alpha": 1.085
+  }
+}

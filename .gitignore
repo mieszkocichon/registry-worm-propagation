@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# Pickle caches execute code on load; never commit or load untrusted ones.
+*.pkl
+# Large raw inputs live outside git (see data/README.md).
+data/npm/npm_metadata.jsonl*
+data/npm/npm_control_maintainers.jsonl
+data/npm/deps_dev_data.jsonl
+data/npm/osv_npm_vulnerabilities_filtered.csv
+data/ecosyste_ms/
+data/cross_ecosystem/*_maintainers.jsonl
+figures/*
+!figures/.gitkeep
+# Built data packages for Zenodo (one folder per licence); notices live in release/.
+release_out/

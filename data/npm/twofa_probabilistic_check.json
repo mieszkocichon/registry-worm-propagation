@@ -1,0 +1,322 @@
+{
+ "beta_p_values": [
+  1.0,
+  0.6,
+  0.3
+ ],
+ "gamma_m_values": [
+  0.0,
+  0.05,
+  0.2
+ ],
+ "steps": 200,
+ "mc_replicates": 10,
+ "treatment_malware": {
+  "projected reach": [
+   {
+    "k": 0,
+    "unsecured_reach": null
+   },
+   {
+    "k": 1,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 10,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 50,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 100,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 500,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   }
+  ],
+  "onehop degree": [
+   {
+    "k": 0,
+    "unsecured_reach": null
+   },
+   {
+    "k": 1,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 10,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 50,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 100,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   },
+   {
+    "k": 500,
+    "account_idx": 3982,
+    "unsecured_reach": 13023,
+    "reach_betap1.0_gammam0.0": 13023.0,
+    "reach_betap1.0_gammam0.05": 13023.0,
+    "reach_betap1.0_gammam0.2": 13023.0,
+    "reach_betap0.6_gammam0.0": 13023.0,
+    "reach_betap0.6_gammam0.05": 13023.0,
+    "reach_betap0.6_gammam0.2": 13023.0,
+    "reach_betap0.3_gammam0.0": 13023.0,
+    "reach_betap0.3_gammam0.05": 13023.0,
+    "reach_betap0.3_gammam0.2": 13023.0
+   }
+  ]
+ },
+ "control_non_malware": {
+  "projected reach": [
+   {
+    "k": 0,
+    "unsecured_reach": null
+   },
+   {
+    "k": 1,
+    "account_idx": 68122,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3228.8,
+    "reach_betap0.6_gammam0.2": 2941.4,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2982.5,
+    "reach_betap0.3_gammam0.2": 2148.7
+   },
+   {
+    "k": 10,
+    "account_idx": 68122,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3228.8,
+    "reach_betap0.6_gammam0.2": 2941.4,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2982.5,
+    "reach_betap0.3_gammam0.2": 2148.7
+   },
+   {
+    "k": 50,
+    "account_idx": 68122,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3228.8,
+    "reach_betap0.6_gammam0.2": 2941.4,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2982.5,
+    "reach_betap0.3_gammam0.2": 2148.7
+   },
+   {
+    "k": 100,
+    "account_idx": 68122,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3228.8,
+    "reach_betap0.6_gammam0.2": 2941.4,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2982.5,
+    "reach_betap0.3_gammam0.2": 2148.7
+   },
+   {
+    "k": 500,
+    "account_idx": 68122,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3228.8,
+    "reach_betap0.6_gammam0.2": 2941.4,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2982.5,
+    "reach_betap0.3_gammam0.2": 2148.7
+   }
+  ],
+  "onehop degree": [
+   {
+    "k": 0,
+    "unsecured_reach": null
+   },
+   {
+    "k": 1,
+    "account_idx": 74286,
+    "unsecured_reach": 2821,
+    "reach_betap1.0_gammam0.0": 2821.0,
+    "reach_betap1.0_gammam0.05": 2821.0,
+    "reach_betap1.0_gammam0.2": 2821.0,
+    "reach_betap0.6_gammam0.0": 2821.0,
+    "reach_betap0.6_gammam0.05": 2821.0,
+    "reach_betap0.6_gammam0.2": 2821.0,
+    "reach_betap0.3_gammam0.0": 2821.0,
+    "reach_betap0.3_gammam0.05": 2821.0,
+    "reach_betap0.3_gammam0.2": 2821.0
+   },
+   {
+    "k": 10,
+    "account_idx": 74286,
+    "unsecured_reach": 2821,
+    "reach_betap1.0_gammam0.0": 2821.0,
+    "reach_betap1.0_gammam0.05": 2821.0,
+    "reach_betap1.0_gammam0.2": 2821.0,
+    "reach_betap0.6_gammam0.0": 2821.0,
+    "reach_betap0.6_gammam0.05": 2821.0,
+    "reach_betap0.6_gammam0.2": 2821.0,
+    "reach_betap0.3_gammam0.0": 2821.0,
+    "reach_betap0.3_gammam0.05": 2821.0,
+    "reach_betap0.3_gammam0.2": 2821.0
+   },
+   {
+    "k": 50,
+    "account_idx": 53187,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3230.4,
+    "reach_betap0.6_gammam0.2": 2976.2,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2996.6,
+    "reach_betap0.3_gammam0.2": 2165.7
+   },
+   {
+    "k": 100,
+    "account_idx": 53187,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3230.4,
+    "reach_betap0.6_gammam0.2": 2976.2,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2996.6,
+    "reach_betap0.3_gammam0.2": 2165.7
+   },
+   {
+    "k": 500,
+    "account_idx": 53187,
+    "unsecured_reach": 3315,
+    "reach_betap1.0_gammam0.0": 3315.0,
+    "reach_betap1.0_gammam0.05": 3315.0,
+    "reach_betap1.0_gammam0.2": 3315.0,
+    "reach_betap0.6_gammam0.0": 3315.0,
+    "reach_betap0.6_gammam0.05": 3230.4,
+    "reach_betap0.6_gammam0.2": 2976.2,
+    "reach_betap0.3_gammam0.0": 3315.0,
+    "reach_betap0.3_gammam0.05": 2996.6,
+    "reach_betap0.3_gammam0.2": 2165.7
+   }
+  ]
+ }
+}

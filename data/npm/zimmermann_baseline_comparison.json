@@ -1,0 +1,1615 @@
+{
+ "summary": {
+  "n_seeds": 200,
+  "mean_portfolio_size": 328.025,
+  "mean_zimmermann_static_1hop": 1060.705,
+  "mean_zimmermann_static_transitive": 1418.85,
+  "mean_dynamic_comaintainer_reach": 328.035,
+  "mean_dynamic_dependency_reach": 139.025,
+  "corr_static_transitive_vs_dynamic_comaintainer": 0.6267730045451207,
+  "corr_static_transitive_vs_dynamic_dependency": 0.26730250755973495,
+  "corr_portfolio_size_vs_dynamic_comaintainer": 0.9999999919017822
+ },
+ "per_seed": [
+  {
+   "seed_package": "@juigorg/veniam-alias-deleniti",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 101.0
+  },
+  {
+   "seed_package": "@scdb/friendly-octo-couscous",
+   "portfolio_size": 13,
+   "zimmermann_static_1hop": 802,
+   "zimmermann_static_transitive": 1302,
+   "this_paper_dynamic_comaintainer_reach": 13.0,
+   "this_paper_dynamic_dependency_reach": 8.0
+  },
+  {
+   "seed_package": "weavedb-sdk",
+   "portfolio_size": 37,
+   "zimmermann_static_1hop": 13,
+   "zimmermann_static_transitive": 49,
+   "this_paper_dynamic_comaintainer_reach": 37.0,
+   "this_paper_dynamic_dependency_reach": 3.0
+  },
+  {
+   "seed_package": "valid-south-african-id",
+   "portfolio_size": 103,
+   "zimmermann_static_1hop": 601,
+   "zimmermann_static_transitive": 730,
+   "this_paper_dynamic_comaintainer_reach": 103.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-webgl-device",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@juiggitea/aperiam-facilis-molestias-mollitia",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 373.0
+  },
+  {
+   "seed_package": "@oku-ui/arrow",
+   "portfolio_size": 82,
+   "zimmermann_static_1hop": 39,
+   "zimmermann_static_transitive": 101,
+   "this_paper_dynamic_comaintainer_reach": 82.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "abc-user-feedback",
+   "portfolio_size": 4,
+   "zimmermann_static_1hop": 6,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 4.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@diotobtea/occaecati-qui-commodi-ea",
+   "portfolio_size": 388,
+   "zimmermann_static_1hop": 280,
+   "zimmermann_static_transitive": 628,
+   "this_paper_dynamic_comaintainer_reach": 388.0,
+   "this_paper_dynamic_dependency_reach": 251.0
+  },
+  {
+   "seed_package": "@trigo/atrix",
+   "portfolio_size": 25,
+   "zimmermann_static_1hop": 31,
+   "zimmermann_static_transitive": 45,
+   "this_paper_dynamic_comaintainer_reach": 25.0,
+   "this_paper_dynamic_dependency_reach": 13.0
+  },
+  {
+   "seed_package": "@taktikangea/magni-nisi-ad-libero",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 35.0
+  },
+  {
+   "seed_package": "p-traffic",
+   "portfolio_size": 61,
+   "zimmermann_static_1hop": 114,
+   "zimmermann_static_transitive": 201,
+   "this_paper_dynamic_comaintainer_reach": 61.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@supernpm2024/dignissimos-accusamus-libero-cumque",
+   "portfolio_size": 44,
+   "zimmermann_static_1hop": 72,
+   "zimmermann_static_transitive": 114,
+   "this_paper_dynamic_comaintainer_reach": 44.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "esbuild-linux-arm32",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 6,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "benjimain",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 2,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "@kvytech/web",
+   "portfolio_size": 14,
+   "zimmermann_static_1hop": 6,
+   "zimmermann_static_transitive": 17,
+   "this_paper_dynamic_comaintainer_reach": 14.0,
+   "this_paper_dynamic_dependency_reach": 3.0
+  },
+  {
+   "seed_package": "eforemon",
+   "portfolio_size": 6,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 13,
+   "this_paper_dynamic_comaintainer_reach": 6.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@zittertea/praesentium-suscipit-nihil-esse",
+   "portfolio_size": 251,
+   "zimmermann_static_1hop": 381,
+   "zimmermann_static_transitive": 794,
+   "this_paper_dynamic_comaintainer_reach": 251.0,
+   "this_paper_dynamic_dependency_reach": 41.0
+  },
+  {
+   "seed_package": "fundingpolicy-paypal",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 8.0
+  },
+  {
+   "seed_package": "@antv/xflow-core",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 10.0
+  },
+  {
+   "seed_package": "echarts-for-react",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 500.0
+  },
+  {
+   "seed_package": "dns-detect",
+   "portfolio_size": 61,
+   "zimmermann_static_1hop": 114,
+   "zimmermann_static_transitive": 201,
+   "this_paper_dynamic_comaintainer_reach": 61.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-annotation",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "db2-on-cloud-rest",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 6,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/f2-context",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 29.0
+  },
+  {
+   "seed_package": "@antv/l7-pass",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/s2-vue",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 11.0
+  },
+  {
+   "seed_package": "kimakq",
+   "portfolio_size": 6,
+   "zimmermann_static_1hop": 4,
+   "zimmermann_static_transitive": 6,
+   "this_paper_dynamic_comaintainer_reach": 6.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "@taktikangea/accusamus-maxime-corporis-esse",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 33.0
+  },
+  {
+   "seed_package": "ngx-trend",
+   "portfolio_size": 22,
+   "zimmermann_static_1hop": 667,
+   "zimmermann_static_transitive": 699,
+   "this_paper_dynamic_comaintainer_reach": 22.0,
+   "this_paper_dynamic_dependency_reach": 41.0
+  },
+  {
+   "seed_package": "shell",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 64,
+   "zimmermann_static_transitive": 67,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 67.0
+  },
+  {
+   "seed_package": "@lbnqduy11805/bookish-sniffle",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 218.0
+  },
+  {
+   "seed_package": "pdf-annotation",
+   "portfolio_size": 12,
+   "zimmermann_static_1hop": 15,
+   "zimmermann_static_transitive": 36,
+   "this_paper_dynamic_comaintainer_reach": 12.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "ciphersage",
+   "portfolio_size": 5817,
+   "zimmermann_static_1hop": 1620,
+   "zimmermann_static_transitive": 7304,
+   "this_paper_dynamic_comaintainer_reach": 5817.0,
+   "this_paper_dynamic_dependency_reach": 1401.0
+  },
+  {
+   "seed_package": "quanxi-taiyi",
+   "portfolio_size": 890,
+   "zimmermann_static_1hop": 360,
+   "zimmermann_static_transitive": 1284,
+   "this_paper_dynamic_comaintainer_reach": 890.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@landmineaknpm2/impedit-nesciunt-sit",
+   "portfolio_size": 86,
+   "zimmermann_static_1hop": 103,
+   "zimmermann_static_transitive": 174,
+   "this_paper_dynamic_comaintainer_reach": 86.0,
+   "this_paper_dynamic_dependency_reach": 42.0
+  },
+  {
+   "seed_package": "axios-timed",
+   "portfolio_size": 103,
+   "zimmermann_static_1hop": 601,
+   "zimmermann_static_transitive": 730,
+   "this_paper_dynamic_comaintainer_reach": 103.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "hopedraw",
+   "portfolio_size": 5,
+   "zimmermann_static_1hop": 4,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 5.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "fusion-plugin-galileo",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@erboladaiteas/nostrum-aut-dignissimos-in",
+   "portfolio_size": 106,
+   "zimmermann_static_1hop": 305,
+   "zimmermann_static_transitive": 318,
+   "this_paper_dynamic_comaintainer_reach": 106.0,
+   "this_paper_dynamic_dependency_reach": 82.0
+  },
+  {
+   "seed_package": "@hishpr/excepturi-beatae-at-inventore",
+   "portfolio_size": 146,
+   "zimmermann_static_1hop": 264,
+   "zimmermann_static_transitive": 384,
+   "this_paper_dynamic_comaintainer_reach": 146.0,
+   "this_paper_dynamic_dependency_reach": 264.0
+  },
+  {
+   "seed_package": "@antv/s2",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 48.0
+  },
+  {
+   "seed_package": "@patrten/voluptate-quasi-facilis-minima",
+   "portfolio_size": 80,
+   "zimmermann_static_1hop": 273,
+   "zimmermann_static_transitive": 316,
+   "this_paper_dynamic_comaintainer_reach": 80.0,
+   "this_paper_dynamic_dependency_reach": 142.0
+  },
+  {
+   "seed_package": "style-format",
+   "portfolio_size": 3,
+   "zimmermann_static_1hop": 10,
+   "zimmermann_static_transitive": 17,
+   "this_paper_dynamic_comaintainer_reach": 3.0,
+   "this_paper_dynamic_dependency_reach": 10.0
+  },
+  {
+   "seed_package": "@antv/gi-cli",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/g-lottie-player",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "auth-types",
+   "portfolio_size": 11,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 23,
+   "this_paper_dynamic_comaintainer_reach": 11.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "eslint-config-trigo",
+   "portfolio_size": 25,
+   "zimmermann_static_1hop": 31,
+   "zimmermann_static_transitive": 45,
+   "this_paper_dynamic_comaintainer_reach": 25.0,
+   "this_paper_dynamic_dependency_reach": 33.0
+  },
+  {
+   "seed_package": "@lint-md/core",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 12.0
+  },
+  {
+   "seed_package": "@antv/g-image-exporter",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@dramateas/iure-possimus-animi-ducimus",
+   "portfolio_size": 79,
+   "zimmermann_static_1hop": 299,
+   "zimmermann_static_transitive": 537,
+   "this_paper_dynamic_comaintainer_reach": 79.0,
+   "this_paper_dynamic_dependency_reach": 434.0
+  },
+  {
+   "seed_package": "@lbnqduy11805/sturdy-chainsaw",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 218.0
+  },
+  {
+   "seed_package": "@hishpr/quidem-harum-alias-natus",
+   "portfolio_size": 146,
+   "zimmermann_static_1hop": 264,
+   "zimmermann_static_transitive": 384,
+   "this_paper_dynamic_comaintainer_reach": 146.0,
+   "this_paper_dynamic_dependency_reach": 181.0
+  },
+  {
+   "seed_package": "consumerweb-logger",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "sherlock008",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 86,
+   "zimmermann_static_transitive": 87,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 85.0
+  },
+  {
+   "seed_package": "bahenol94",
+   "portfolio_size": 405,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 405,
+   "this_paper_dynamic_comaintainer_reach": 405.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "eslint-config-teselagen",
+   "portfolio_size": 21,
+   "zimmermann_static_1hop": 31,
+   "zimmermann_static_transitive": 62,
+   "this_paper_dynamic_comaintainer_reach": 21.0,
+   "this_paper_dynamic_dependency_reach": 14.0
+  },
+  {
+   "seed_package": "@antv/graphin-icons",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 18.0
+  },
+  {
+   "seed_package": "@zittertea/minima-nisi-placeat-cupiditate",
+   "portfolio_size": 251,
+   "zimmermann_static_1hop": 381,
+   "zimmermann_static_transitive": 794,
+   "this_paper_dynamic_comaintainer_reach": 251.0,
+   "this_paper_dynamic_dependency_reach": 402.0
+  },
+  {
+   "seed_package": "@mipta1/tehtehteh",
+   "portfolio_size": 4517,
+   "zimmermann_static_1hop": 1401,
+   "zimmermann_static_transitive": 5873,
+   "this_paper_dynamic_comaintainer_reach": 4517.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "calc-loan-interest",
+   "portfolio_size": 21,
+   "zimmermann_static_1hop": 9,
+   "zimmermann_static_transitive": 34,
+   "this_paper_dynamic_comaintainer_reach": 21.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "annisazanniba-tea",
+   "portfolio_size": 996,
+   "zimmermann_static_1hop": 753,
+   "zimmermann_static_transitive": 1749,
+   "this_paper_dynamic_comaintainer_reach": 996.0,
+   "this_paper_dynamic_dependency_reach": 701.0
+  },
+  {
+   "seed_package": "@patrten/accusantium-libero-velit-aspernatur",
+   "portfolio_size": 80,
+   "zimmermann_static_1hop": 273,
+   "zimmermann_static_transitive": 316,
+   "this_paper_dynamic_comaintainer_reach": 80.0,
+   "this_paper_dynamic_dependency_reach": 274.0
+  },
+  {
+   "seed_package": "footricon",
+   "portfolio_size": 3,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 3,
+   "this_paper_dynamic_comaintainer_reach": 3.0,
+   "this_paper_dynamic_dependency_reach": 3.0
+  },
+  {
+   "seed_package": "@erboladaiteas/esse-labore-ea-facere",
+   "portfolio_size": 106,
+   "zimmermann_static_1hop": 305,
+   "zimmermann_static_transitive": 318,
+   "this_paper_dynamic_comaintainer_reach": 106.0,
+   "this_paper_dynamic_dependency_reach": 83.0
+  },
+  {
+   "seed_package": "@antv/g2plot-schemas",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@antv/f2-wx",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@juiggitea/minima-iure-necessitatibus-corporis",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 82.0
+  },
+  {
+   "seed_package": "@antv/hierarchy",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 42.0
+  },
+  {
+   "seed_package": "@zitterorg/eum-veritatis-placeat",
+   "portfolio_size": 251,
+   "zimmermann_static_1hop": 381,
+   "zimmermann_static_transitive": 794,
+   "this_paper_dynamic_comaintainer_reach": 251.0,
+   "this_paper_dynamic_dependency_reach": 101.0
+  },
+  {
+   "seed_package": "@teasource/asperiores-error-dolor",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 12.0
+  },
+  {
+   "seed_package": "@hishpr/aliquid-repudiandae-voluptate-repellat",
+   "portfolio_size": 146,
+   "zimmermann_static_1hop": 264,
+   "zimmermann_static_transitive": 384,
+   "this_paper_dynamic_comaintainer_reach": 146.0,
+   "this_paper_dynamic_dependency_reach": 46.0
+  },
+  {
+   "seed_package": "syxx.js",
+   "portfolio_size": 5,
+   "zimmermann_static_1hop": 5,
+   "zimmermann_static_transitive": 9,
+   "this_paper_dynamic_comaintainer_reach": 5.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@npmshivamkalsi/eveniet-error-eos-repellat",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@scdb/silver-octo-meme",
+   "portfolio_size": 13,
+   "zimmermann_static_1hop": 802,
+   "zimmermann_static_transitive": 1302,
+   "this_paper_dynamic_comaintainer_reach": 13.0,
+   "this_paper_dynamic_dependency_reach": 9.0
+  },
+  {
+   "seed_package": "acertea",
+   "portfolio_size": 1099,
+   "zimmermann_static_1hop": 1028,
+   "zimmermann_static_transitive": 2107,
+   "this_paper_dynamic_comaintainer_reach": 1099.0,
+   "this_paper_dynamic_dependency_reach": 801.0
+  },
+  {
+   "seed_package": "@lbnqduy11805/super-duper-train",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 218.0
+  },
+  {
+   "seed_package": "glob-match",
+   "portfolio_size": 61,
+   "zimmermann_static_1hop": 114,
+   "zimmermann_static_transitive": 201,
+   "this_paper_dynamic_comaintainer_reach": 61.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/thumbnails",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 9.0
+  },
+  {
+   "seed_package": "@teasource/ducimus-magnam-dolor",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 14.0
+  },
+  {
+   "seed_package": "@juiggitea/sapiente-soluta-minima-fuga",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 474.0
+  },
+  {
+   "seed_package": "@hishpr/necessitatibus-dicta-molestiae-reprehenderit",
+   "portfolio_size": 146,
+   "zimmermann_static_1hop": 264,
+   "zimmermann_static_transitive": 384,
+   "this_paper_dynamic_comaintainer_reach": 146.0,
+   "this_paper_dynamic_dependency_reach": 42.0
+  },
+  {
+   "seed_package": "@lui-ui/lui-vue",
+   "portfolio_size": 3,
+   "zimmermann_static_1hop": 3,
+   "zimmermann_static_transitive": 5,
+   "this_paper_dynamic_comaintainer_reach": 3.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "callhtmcall",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 2,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@react-native-aria/slider",
+   "portfolio_size": 17,
+   "zimmermann_static_1hop": 79,
+   "zimmermann_static_transitive": 98,
+   "this_paper_dynamic_comaintainer_reach": 17.0,
+   "this_paper_dynamic_dependency_reach": 26.0
+  },
+  {
+   "seed_package": "@juiggitea/vel-et-repudiandae-sit",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 476.0
+  },
+  {
+   "seed_package": "@antwiib001/quae-dolores-maxime",
+   "portfolio_size": 19,
+   "zimmermann_static_1hop": 7,
+   "zimmermann_static_transitive": 22,
+   "this_paper_dynamic_comaintainer_reach": 19.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@lbnqduy180500/vigilant-octo-spoon",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 480.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-webgpu-device",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@taktikangea/eligendi-hic-ab-voluptatum",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 184.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-image-loader",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/x6-plugin-keyboard",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 39.0
+  },
+  {
+   "seed_package": "@taktikangea/eveniet-reprehenderit-itaque-deserunt",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 35.0
+  },
+  {
+   "seed_package": "@patrten/rerum-cum-repellat-iste",
+   "portfolio_size": 80,
+   "zimmermann_static_1hop": 273,
+   "zimmermann_static_transitive": 316,
+   "this_paper_dynamic_comaintainer_reach": 80.0,
+   "this_paper_dynamic_dependency_reach": 54.0
+  },
+  {
+   "seed_package": "svelte-daily-prebuilt",
+   "portfolio_size": 8,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 8.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "@erboladaiteas/aperiam-vitae-accusamus-fugiat",
+   "portfolio_size": 106,
+   "zimmermann_static_1hop": 305,
+   "zimmermann_static_transitive": 318,
+   "this_paper_dynamic_comaintainer_reach": 106.0,
+   "this_paper_dynamic_dependency_reach": 190.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-yoga",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-css-select",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "h1-cli-core",
+   "portfolio_size": 7,
+   "zimmermann_static_1hop": 7,
+   "zimmermann_static_transitive": 11,
+   "this_paper_dynamic_comaintainer_reach": 7.0,
+   "this_paper_dynamic_dependency_reach": 8.0
+  },
+  {
+   "seed_package": "f34th3r-react-components",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 5,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@taktikangea/quo-nobis-aspernatur-eligendi",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 195.0
+  },
+  {
+   "seed_package": "@kollusietea/inventore-asperiores-sed-eligendi",
+   "portfolio_size": 177,
+   "zimmermann_static_1hop": 382,
+   "zimmermann_static_transitive": 733,
+   "this_paper_dynamic_comaintainer_reach": 177.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "multer-sharp-minio-storage",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 8.0
+  },
+  {
+   "seed_package": "body-parse-xml",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@oku-ui/dismissable-layer",
+   "portfolio_size": 82,
+   "zimmermann_static_1hop": 39,
+   "zimmermann_static_transitive": 101,
+   "this_paper_dynamic_comaintainer_reach": 82.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@hishpr/adipisci-rerum-repudiandae-eligendi",
+   "portfolio_size": 146,
+   "zimmermann_static_1hop": 264,
+   "zimmermann_static_transitive": 384,
+   "this_paper_dynamic_comaintainer_reach": 146.0,
+   "this_paper_dynamic_dependency_reach": 53.0
+  },
+  {
+   "seed_package": "vndrabnb",
+   "portfolio_size": 12479,
+   "zimmermann_static_1hop": 405,
+   "zimmermann_static_transitive": 12861,
+   "this_paper_dynamic_comaintainer_reach": 12479.0,
+   "this_paper_dynamic_dependency_reach": 405.0
+  },
+  {
+   "seed_package": "@antv/calendar-heatmap",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@lbnqduy/improved-chainsaw",
+   "portfolio_size": 48,
+   "zimmermann_static_1hop": 677,
+   "zimmermann_static_transitive": 897,
+   "this_paper_dynamic_comaintainer_reach": 48.0,
+   "this_paper_dynamic_dependency_reach": 41.0
+  },
+  {
+   "seed_package": "daily-electron",
+   "portfolio_size": 8,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 8.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "@antv/narrative-text-editor",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "helyt",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 4,
+   "zimmermann_static_transitive": 11,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 11.0
+  },
+  {
+   "seed_package": "@landmineaknpm2/nostrum-in-rem",
+   "portfolio_size": 86,
+   "zimmermann_static_1hop": 103,
+   "zimmermann_static_transitive": 174,
+   "this_paper_dynamic_comaintainer_reach": 86.0,
+   "this_paper_dynamic_dependency_reach": 29.0
+  },
+  {
+   "seed_package": "discord-bots-api",
+   "portfolio_size": 5,
+   "zimmermann_static_1hop": 9,
+   "zimmermann_static_transitive": 19,
+   "this_paper_dynamic_comaintainer_reach": 5.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "account-settings",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 5,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "stellarscribe",
+   "portfolio_size": 5817,
+   "zimmermann_static_1hop": 1620,
+   "zimmermann_static_transitive": 7304,
+   "this_paper_dynamic_comaintainer_reach": 5817.0,
+   "this_paper_dynamic_dependency_reach": 101.0
+  },
+  {
+   "seed_package": "@lbnqduy180500/jubilant-octo-telegram",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 480.0
+  },
+  {
+   "seed_package": "pm10-kickstart.css",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 6,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@oku-ui/portal",
+   "portfolio_size": 82,
+   "zimmermann_static_1hop": 39,
+   "zimmermann_static_transitive": 101,
+   "this_paper_dynamic_comaintainer_reach": 82.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@react-native-aria/menu",
+   "portfolio_size": 17,
+   "zimmermann_static_1hop": 79,
+   "zimmermann_static_transitive": 98,
+   "this_paper_dynamic_comaintainer_reach": 17.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@oku-ui/primitive",
+   "portfolio_size": 82,
+   "zimmermann_static_1hop": 39,
+   "zimmermann_static_transitive": 101,
+   "this_paper_dynamic_comaintainer_reach": 82.0,
+   "this_paper_dynamic_dependency_reach": 21.0
+  },
+  {
+   "seed_package": "@waitfortea2024/ex-sunt-architecto",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 184.0
+  },
+  {
+   "seed_package": "so-loader-helper",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 3,
+   "zimmermann_static_transitive": 4,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@antv/l7-composite-layers",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "jonitea",
+   "portfolio_size": 2029,
+   "zimmermann_static_1hop": 3,
+   "zimmermann_static_transitive": 2029,
+   "this_paper_dynamic_comaintainer_reach": 2029.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@juiggitea/praesentium-porro-voluptates-officiis",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 472.0
+  },
+  {
+   "seed_package": "api-utility",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 5,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@lbnqduy/potential-parakeet",
+   "portfolio_size": 48,
+   "zimmermann_static_1hop": 677,
+   "zimmermann_static_transitive": 897,
+   "this_paper_dynamic_comaintainer_reach": 48.0,
+   "this_paper_dynamic_dependency_reach": 41.0
+  },
+  {
+   "seed_package": "@teasource/aliquid-eos-delectus-quas",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 15.0
+  },
+  {
+   "seed_package": "@dramateas/nulla-voluptatibus-aliquid-quia",
+   "portfolio_size": 79,
+   "zimmermann_static_1hop": 299,
+   "zimmermann_static_transitive": 537,
+   "this_paper_dynamic_comaintainer_reach": 79.0,
+   "this_paper_dynamic_dependency_reach": 20.0
+  },
+  {
+   "seed_package": "@antwiib001/pariatur-voluptatibus-sapiente",
+   "portfolio_size": 19,
+   "zimmermann_static_1hop": 7,
+   "zimmermann_static_transitive": 22,
+   "this_paper_dynamic_comaintainer_reach": 19.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "myrepotesting",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 3,
+   "zimmermann_static_transitive": 4,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@lbnqduy/vigilant-spoon",
+   "portfolio_size": 48,
+   "zimmermann_static_1hop": 677,
+   "zimmermann_static_transitive": 897,
+   "this_paper_dynamic_comaintainer_reach": 48.0,
+   "this_paper_dynamic_dependency_reach": 41.0
+  },
+  {
+   "seed_package": "@zittertea/excepturi-laboriosam-vitae-atque",
+   "portfolio_size": 251,
+   "zimmermann_static_1hop": 381,
+   "zimmermann_static_transitive": 794,
+   "this_paper_dynamic_comaintainer_reach": 251.0,
+   "this_paper_dynamic_dependency_reach": 307.0
+  },
+  {
+   "seed_package": "@antv/dw-random",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 10.0
+  },
+  {
+   "seed_package": "seblakkuah",
+   "portfolio_size": 2518,
+   "zimmermann_static_1hop": 700,
+   "zimmermann_static_transitive": 2616,
+   "this_paper_dynamic_comaintainer_reach": 2518.0,
+   "this_paper_dynamic_dependency_reach": 701.0
+  },
+  {
+   "seed_package": "@juiggitea/eius-excepturi-velit-aliquid",
+   "portfolio_size": 151,
+   "zimmermann_static_1hop": 608,
+   "zimmermann_static_transitive": 735,
+   "this_paper_dynamic_comaintainer_reach": 151.0,
+   "this_paper_dynamic_dependency_reach": 76.0
+  },
+  {
+   "seed_package": "callhtm-p",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 2,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "guess-zodiac",
+   "portfolio_size": 996,
+   "zimmermann_static_1hop": 104,
+   "zimmermann_static_transitive": 5200,
+   "this_paper_dynamic_comaintainer_reach": 996.0,
+   "this_paper_dynamic_dependency_reach": 4205.0
+  },
+  {
+   "seed_package": "erelaaaaa.js",
+   "portfolio_size": 4,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 4,
+   "this_paper_dynamic_comaintainer_reach": 4.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@antv/l7-renderer",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "cline",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 21,
+   "zimmermann_static_transitive": 24,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 24.0
+  },
+  {
+   "seed_package": "@taktikangea/numquam-culpa-quisquam-dolor",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 144.0
+  },
+  {
+   "seed_package": "api-facebooknew",
+   "portfolio_size": 21,
+   "zimmermann_static_1hop": 1309,
+   "zimmermann_static_transitive": 1773,
+   "this_paper_dynamic_comaintainer_reach": 21.0,
+   "this_paper_dynamic_dependency_reach": 1106.0
+  },
+  {
+   "seed_package": "@npmshivamkalsi/dolores-laborum-ipsam-minima",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@diotobtea/corrupti-quos-neque-dolores",
+   "portfolio_size": 388,
+   "zimmermann_static_1hop": 280,
+   "zimmermann_static_transitive": 628,
+   "this_paper_dynamic_comaintainer_reach": 388.0,
+   "this_paper_dynamic_dependency_reach": 240.0
+  },
+  {
+   "seed_package": "@waitfortea2024/perferendis-dicta-qui",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 162.0
+  },
+  {
+   "seed_package": "data-kempremium",
+   "portfolio_size": 5,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 13,
+   "this_paper_dynamic_comaintainer_reach": 7.0,
+   "this_paper_dynamic_dependency_reach": 9.0
+  },
+  {
+   "seed_package": "zoo-web-components-docs",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 3,
+   "zimmermann_static_transitive": 3,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@kollusietea/quidem-enim-ad-numquam",
+   "portfolio_size": 177,
+   "zimmermann_static_1hop": 382,
+   "zimmermann_static_transitive": 733,
+   "this_paper_dynamic_comaintainer_reach": 177.0,
+   "this_paper_dynamic_dependency_reach": 429.0
+  },
+  {
+   "seed_package": "@antv/g-plugin-canvaskit-renderer",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/g6-editor",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 22.0
+  },
+  {
+   "seed_package": "ngx-i2e-user-profile",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 8.0
+  },
+  {
+   "seed_package": "@antv/f2-graphic",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "babel-plugin-version",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 382.0
+  },
+  {
+   "seed_package": "@antv/gi-assets-graphscope",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "f0-authorizer",
+   "portfolio_size": 9,
+   "zimmermann_static_1hop": 7,
+   "zimmermann_static_transitive": 17,
+   "this_paper_dynamic_comaintainer_reach": 9.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "cryptutils-paypal",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "fusion-plugin-heatpipe",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@scdb/urban-octo-garbanzo",
+   "portfolio_size": 13,
+   "zimmermann_static_1hop": 802,
+   "zimmermann_static_transitive": 1302,
+   "this_paper_dynamic_comaintainer_reach": 13.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "fpjson-lang",
+   "portfolio_size": 37,
+   "zimmermann_static_1hop": 13,
+   "zimmermann_static_transitive": 49,
+   "this_paper_dynamic_comaintainer_reach": 37.0,
+   "this_paper_dynamic_dependency_reach": 9.0
+  },
+  {
+   "seed_package": "@scdb/improved-tribble",
+   "portfolio_size": 13,
+   "zimmermann_static_1hop": 802,
+   "zimmermann_static_transitive": 1302,
+   "this_paper_dynamic_comaintainer_reach": 13.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "dierxing",
+   "portfolio_size": 890,
+   "zimmermann_static_1hop": 360,
+   "zimmermann_static_transitive": 1284,
+   "this_paper_dynamic_comaintainer_reach": 890.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@oku-ui/collection",
+   "portfolio_size": 82,
+   "zimmermann_static_1hop": 39,
+   "zimmermann_static_transitive": 101,
+   "this_paper_dynamic_comaintainer_reach": 82.0,
+   "this_paper_dynamic_dependency_reach": 9.0
+  },
+  {
+   "seed_package": "@diotobtea/voluptatibus-numquam-ratione-consequatur",
+   "portfolio_size": 388,
+   "zimmermann_static_1hop": 280,
+   "zimmermann_static_transitive": 628,
+   "this_paper_dynamic_comaintainer_reach": 388.0,
+   "this_paper_dynamic_dependency_reach": 55.0
+  },
+  {
+   "seed_package": "pancake_uniswap_validators_utils_snipe",
+   "portfolio_size": 4,
+   "zimmermann_static_1hop": 7,
+   "zimmermann_static_transitive": 16,
+   "this_paper_dynamic_comaintainer_reach": 4.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "react-native-dual-pedometer",
+   "portfolio_size": 3,
+   "zimmermann_static_1hop": 4,
+   "zimmermann_static_transitive": 6,
+   "this_paper_dynamic_comaintainer_reach": 3.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@landmineaknpm2/repellat-minima-sint",
+   "portfolio_size": 86,
+   "zimmermann_static_1hop": 103,
+   "zimmermann_static_transitive": 174,
+   "this_paper_dynamic_comaintainer_reach": 86.0,
+   "this_paper_dynamic_dependency_reach": 42.0
+  },
+  {
+   "seed_package": "seriously-simple-podcasting",
+   "portfolio_size": 8,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 8,
+   "this_paper_dynamic_comaintainer_reach": 8.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "@sourceressj2001/quasi-tenetur-labore",
+   "portfolio_size": 23,
+   "zimmermann_static_1hop": 8,
+   "zimmermann_static_transitive": 24,
+   "this_paper_dynamic_comaintainer_reach": 23.0,
+   "this_paper_dynamic_dependency_reach": 9.0
+  },
+  {
+   "seed_package": "@lbnqduy/solid-robot",
+   "portfolio_size": 48,
+   "zimmermann_static_1hop": 677,
+   "zimmermann_static_transitive": 897,
+   "this_paper_dynamic_comaintainer_reach": 48.0,
+   "this_paper_dynamic_dependency_reach": 41.0
+  },
+  {
+   "seed_package": "kami-richtext",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 1,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "fusion-plugin-flipr",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "randombullshitgo-js",
+   "portfolio_size": 9,
+   "zimmermann_static_1hop": 3,
+   "zimmermann_static_transitive": 9,
+   "this_paper_dynamic_comaintainer_reach": 9.0,
+   "this_paper_dynamic_dependency_reach": 4.0
+  },
+  {
+   "seed_package": "@lbnqduy180500/symmetrical-potato",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 420.0
+  },
+  {
+   "seed_package": "react-packery-component",
+   "portfolio_size": 3,
+   "zimmermann_static_1hop": 39,
+   "zimmermann_static_transitive": 49,
+   "this_paper_dynamic_comaintainer_reach": 3.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@antv/g-gesture",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 13.0
+  },
+  {
+   "seed_package": "@taktikangea/excepturi-modi-consectetur-facilis",
+   "portfolio_size": 117,
+   "zimmermann_static_1hop": 246,
+   "zimmermann_static_transitive": 329,
+   "this_paper_dynamic_comaintainer_reach": 117.0,
+   "this_paper_dynamic_dependency_reach": 32.0
+  },
+  {
+   "seed_package": "@antv/l7plot-component",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@antv/lite-insight",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@lbnqduy11805/refactored-octo-carnival",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 218.0
+  },
+  {
+   "seed_package": "@lbnqduy11805/psychic-waffle",
+   "portfolio_size": 55,
+   "zimmermann_static_1hop": 696,
+   "zimmermann_static_transitive": 740,
+   "this_paper_dynamic_comaintainer_reach": 55.0,
+   "this_paper_dynamic_dependency_reach": 218.0
+  },
+  {
+   "seed_package": "@antv/g6-mobile",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@zittertea/natus-aliquam-eius-consectetur",
+   "portfolio_size": 251,
+   "zimmermann_static_1hop": 381,
+   "zimmermann_static_transitive": 794,
+   "this_paper_dynamic_comaintainer_reach": 251.0,
+   "this_paper_dynamic_dependency_reach": 403.0
+  },
+  {
+   "seed_package": "arangodb",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 1,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "@kollusietea/neque-quae-reiciendis-tempore",
+   "portfolio_size": 177,
+   "zimmermann_static_1hop": 382,
+   "zimmermann_static_transitive": 733,
+   "this_paper_dynamic_comaintainer_reach": 177.0,
+   "this_paper_dynamic_dependency_reach": 314.0
+  },
+  {
+   "seed_package": "@testorgggg/pkg3",
+   "portfolio_size": 3,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 3,
+   "this_paper_dynamic_comaintainer_reach": 3.0,
+   "this_paper_dynamic_dependency_reach": 1.0
+  },
+  {
+   "seed_package": "colors-flag",
+   "portfolio_size": 2,
+   "zimmermann_static_1hop": 1,
+   "zimmermann_static_transitive": 2,
+   "this_paper_dynamic_comaintainer_reach": 2.0,
+   "this_paper_dynamic_dependency_reach": 2.0
+  },
+  {
+   "seed_package": "@hishpr/et-debitis-vero-voluptas",
+   "portfolio_size": 146,
+   "zimmermann_static_1hop": 264,
+   "zimmermann_static_transitive": 384,
+   "this_paper_dynamic_comaintainer_reach": 146.0,
+   "this_paper_dynamic_dependency_reach": 44.0
+  },
+  {
+   "seed_package": "commandlib",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 13,
+   "zimmermann_static_transitive": 14,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 14.0
+  },
+  {
+   "seed_package": "@landmineaknpm2/fugit-perspiciatis-quibusdam",
+   "portfolio_size": 86,
+   "zimmermann_static_1hop": 103,
+   "zimmermann_static_transitive": 174,
+   "this_paper_dynamic_comaintainer_reach": 86.0,
+   "this_paper_dynamic_dependency_reach": 35.0
+  },
+  {
+   "seed_package": "omega-cms-lf-ng-md-file-input",
+   "portfolio_size": 1,
+   "zimmermann_static_1hop": 2,
+   "zimmermann_static_transitive": 6,
+   "this_paper_dynamic_comaintainer_reach": 1.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@lbnqduy/effective-system",
+   "portfolio_size": 48,
+   "zimmermann_static_1hop": 677,
+   "zimmermann_static_transitive": 897,
+   "this_paper_dynamic_comaintainer_reach": 48.0,
+   "this_paper_dynamic_dependency_reach": 255.0
+  },
+  {
+   "seed_package": "guess-iq",
+   "portfolio_size": 799,
+   "zimmermann_static_1hop": 2106,
+   "zimmermann_static_transitive": 6323,
+   "this_paper_dynamic_comaintainer_reach": 799.0,
+   "this_paper_dynamic_dependency_reach": 5520.0
+  },
+  {
+   "seed_package": "@antv/torch",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 83.0
+  },
+  {
+   "seed_package": "fuffer-xor",
+   "portfolio_size": 279,
+   "zimmermann_static_1hop": 927,
+   "zimmermann_static_transitive": 1237,
+   "this_paper_dynamic_comaintainer_reach": 279.0,
+   "this_paper_dynamic_dependency_reach": 7.0
+  },
+  {
+   "seed_package": "@antv/f-react",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  },
+  {
+   "seed_package": "@waitfortea2024/deserunt-dicta-consequatur",
+   "portfolio_size": 256,
+   "zimmermann_static_1hop": 803,
+   "zimmermann_static_transitive": 860,
+   "this_paper_dynamic_comaintainer_reach": 256.0,
+   "this_paper_dynamic_dependency_reach": 169.0
+  },
+  {
+   "seed_package": "qq-baodian-vol2",
+   "portfolio_size": 890,
+   "zimmermann_static_1hop": 360,
+   "zimmermann_static_transitive": 1284,
+   "this_paper_dynamic_comaintainer_reach": 890.0,
+   "this_paper_dynamic_dependency_reach": 5.0
+  },
+  {
+   "seed_package": "@antv/gi-assets-algorithm",
+   "portfolio_size": 317,
+   "zimmermann_static_1hop": 4016,
+   "zimmermann_static_transitive": 4256,
+   "this_paper_dynamic_comaintainer_reach": 317.0,
+   "this_paper_dynamic_dependency_reach": 6.0
+  }
+ ]
+}

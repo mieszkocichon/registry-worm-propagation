@@ -1,0 +1,230 @@
+{
+  "treatment_malware::portfolio_size": [
+    {
+      "k": 0,
+      "account": "m_ce37b385539e2df2",
+      "reach_pkgs": 13023,
+      "reach_pct": 6.10943789230726
+    },
+    {
+      "k": 1,
+      "account": "m_7ad8e2aad86e105b",
+      "reach_pkgs": 12955,
+      "reach_pct": 6.077537272121672
+    },
+    {
+      "k": 10,
+      "account": "m_5a1ab9b1b79641b1",
+      "reach_pkgs": 5136,
+      "reach_pct": 2.4094350775466546
+    },
+    {
+      "k": 50,
+      "account": "m_5a60fd2e4e3c90d0",
+      "reach_pkgs": 279,
+      "reach_pct": 0.1308863681143919
+    },
+    {
+      "k": 100,
+      "account": "m_9f7e18bb6e744124",
+      "reach_pkgs": 84,
+      "reach_pct": 0.03940664846454809
+    },
+    {
+      "k": 500,
+      "account": "m_c50190d07f8b32f2",
+      "reach_pkgs": 12,
+      "reach_pct": 0.005629521209221156
+    }
+  ],
+  "treatment_malware::projected_reach": [
+    {
+      "k": 0,
+      "account": "m_ce37b385539e2df2",
+      "reach_pkgs": 13023,
+      "reach_pct": 6.10943789230726
+    },
+    {
+      "k": 1,
+      "account": "m_7ad8e2aad86e105b",
+      "reach_pkgs": 12955,
+      "reach_pct": 6.077537272121672
+    },
+    {
+      "k": 10,
+      "account": "m_5a1ab9b1b79641b1",
+      "reach_pkgs": 5136,
+      "reach_pct": 2.4094350775466546
+    },
+    {
+      "k": 50,
+      "account": "m_e642b4baa1cbf218",
+      "reach_pkgs": 279,
+      "reach_pct": 0.1308863681143919
+    },
+    {
+      "k": 100,
+      "account": "m_ce8245c3482a8093",
+      "reach_pkgs": 92,
+      "reach_pct": 0.043159662604028856
+    },
+    {
+      "k": 500,
+      "account": "m_94e03ea9198edf7c",
+      "reach_pkgs": 14,
+      "reach_pct": 0.006567774744091349
+    }
+  ],
+  "treatment_malware::onehop_degree": [
+    {
+      "k": 0,
+      "account": "m_ce37b385539e2df2",
+      "reach_pkgs": 13023,
+      "reach_pct": 6.10943789230726
+    },
+    {
+      "k": 1,
+      "account": "m_7ad8e2aad86e105b",
+      "reach_pkgs": 12955,
+      "reach_pct": 6.077537272121672
+    },
+    {
+      "k": 10,
+      "account": "m_5a1ab9b1b79641b1",
+      "reach_pkgs": 5136,
+      "reach_pct": 2.4094350775466546
+    },
+    {
+      "k": 50,
+      "account": "m_e642b4baa1cbf218",
+      "reach_pkgs": 279,
+      "reach_pct": 0.1308863681143919
+    },
+    {
+      "k": 100,
+      "account": "m_ce8245c3482a8093",
+      "reach_pkgs": 92,
+      "reach_pct": 0.043159662604028856
+    },
+    {
+      "k": 500,
+      "account": "m_befc5c681dab64e5",
+      "reach_pkgs": 14,
+      "reach_pct": 0.006567774744091349
+    }
+  ],
+  "control_non_malware::portfolio_size": [
+    {
+      "k": 0,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 1,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 10,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 50,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 100,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3041,
+      "reach_pct": 1.426614499770128
+    },
+    {
+      "k": 500,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 1819,
+      "reach_pct": 0.8533415899644401
+    }
+  ],
+  "control_non_malware::projected_reach": [
+    {
+      "k": 0,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 1,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3279,
+      "reach_pct": 1.5382666704196808
+    },
+    {
+      "k": 10,
+      "account": "m_bab1ef91fa4c220b",
+      "reach_pkgs": 2821,
+      "reach_pct": 1.3234066109344067
+    },
+    {
+      "k": 50,
+      "account": "m_bab1ef91fa4c220b",
+      "reach_pkgs": 2821,
+      "reach_pct": 1.3234066109344067
+    },
+    {
+      "k": 100,
+      "account": "m_bab1ef91fa4c220b",
+      "reach_pkgs": 2821,
+      "reach_pct": 1.3234066109344067
+    },
+    {
+      "k": 500,
+      "account": "m_bab1ef91fa4c220b",
+      "reach_pkgs": 2821,
+      "reach_pct": 1.3234066109344067
+    }
+  ],
+  "control_non_malware::onehop_degree": [
+    {
+      "k": 0,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 1,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 10,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 3315,
+      "reach_pct": 1.5551552340473442
+    },
+    {
+      "k": 50,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 2672,
+      "reach_pct": 1.2535067225865772
+    },
+    {
+      "k": 100,
+      "account": "m_31c833ba3eb9b2c7",
+      "reach_pkgs": 2355,
+      "reach_pct": 1.1047935373096518
+    },
+    {
+      "k": 500,
+      "account": "m_c508bc133f46de26",
+      "reach_pkgs": 1028,
+      "reach_pct": 0.482262316923279
+    }
+  ]
+}

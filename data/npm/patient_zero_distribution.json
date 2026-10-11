@@ -1,0 +1,12 @@
+{
+ "n_seeds": 2958,
+ "n_rejected": 13823,
+ "mean_pct": 0.027874345254932455,
+ "median_pct": 0.009382535348701928,
+ "p90_pct": 0.1487131852769255,
+ "max_pct": 0.1487131852769255,
+ "max_pkgs": 317,
+ "frac_isolated_pct": 0.0,
+ "ten_seed_combined_pct": 0.057233,
+ "ten_seed_combined_pkgs": 122
+}

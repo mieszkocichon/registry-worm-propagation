@@ -1,0 +1,9 @@
+pandas
+lifelines
+scipy
+matplotlib
+requests
+jupyter
+numpy
+nbformat  
+ 

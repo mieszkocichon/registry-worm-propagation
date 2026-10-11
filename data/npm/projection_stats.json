@@ -1,0 +1,16 @@
+{
+  "N": 213162,
+  "n_maintainers": 7799,
+  "edges": 193359,
+  "maint_mean_degree": 24.792793947942044,
+  "maint_max_degree": 13023,
+  "maint_max_account": "m_ce37b385539e2df2",
+  "maint_gini": 0.9415562553625316,
+  "dep_mean_degree": 0.22693069121137913,
+  "dep_max_out_degree": 1500,
+  "projected_mean_degree": 205.642,
+  "projected_median_degree": 0.0,
+  "projected_max_degree": 2924,
+  "projected_gini": 0.89,
+  "hub_maintainers_excluded": 17
+}

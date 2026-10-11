@@ -1,0 +1,110 @@
+{
+ "beta_steal_values": [
+  0.3,
+  0.6,
+  0.9
+ ],
+ "gamma_m_values": [
+  0.0,
+  0.05,
+  0.2
+ ],
+ "beta_pub": 1.0,
+ "gamma": 0.0028080728776521983,
+ "steps": 200,
+ "n_seeds": 200,
+ "reach_A_ceiling_mean": 328.035,
+ "reach_B_dependency_mean": 139.025,
+ "grid": {
+  "0.3|0.0": {
+   "beta_steal": 0.3,
+   "gamma_m": 0.0,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.3|0.05": {
+   "beta_steal": 0.3,
+   "gamma_m": 0.05,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.3|0.2": {
+   "beta_steal": 0.3,
+   "gamma_m": 0.2,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.6|0.0": {
+   "beta_steal": 0.6,
+   "gamma_m": 0.0,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.6|0.05": {
+   "beta_steal": 0.6,
+   "gamma_m": 0.05,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.6|0.2": {
+   "beta_steal": 0.6,
+   "gamma_m": 0.2,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.9|0.0": {
+   "beta_steal": 0.9,
+   "gamma_m": 0.0,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.9|0.05": {
+   "beta_steal": 0.9,
+   "gamma_m": 0.05,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  },
+  "0.9|0.2": {
+   "beta_steal": 0.9,
+   "gamma_m": 0.2,
+   "mean_C": 1221.925,
+   "median_C": 298.0,
+   "max_C": 35352.0,
+   "ratio_vs_A_ceiling": 3.7249836145533246,
+   "ratio_vs_B_dependency": 8.789246538392375,
+   "seeds_beyond_own": 187
+  }
+ }
+}
