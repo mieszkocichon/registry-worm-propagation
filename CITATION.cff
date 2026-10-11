@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Registry worm propagation: code for 'Crossing Graphs: How Dependency-Mediated Credential Theft Extends Supply-Chain Worm Reach Beyond Co-Maintainership'"
+authors:
+  - family-names: "Cichoń"
+    given-names: "Mieszko"
+    orcid: "https://orcid.org/0009-0005-8681-1617"
+    affiliation: "Cracow University of Technology"
+version: "1.0.0"
+date-released: "2026-10-11"
+license: MIT
+repository-code: "https://github.com/mieszkocichon/registry-worm-propagation"
+keywords:
+  - software supply chain security
+  - package registries
+  - npm
+  - self-propagating malware
+  - maintainer graph
