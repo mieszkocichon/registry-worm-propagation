@@ -1,14 +1,14 @@
 # Data
 
 Small result files (JSON) and the dependency matrix are in git. The large inputs
-are deposited on Zenodo (DOI: to be added) as **three packages, one per licence**,
+are deposited on Zenodo as **three packages, one per licence**,
 because the sources are licensed differently and must not be mixed in one file:
 
-| Package | Contents | Licence |
-|---|---|---|
-| `osv/` | npm records from OSV.dev, split by source database | Apache-2.0 (`MAL-`), CC BY 4.0 (`GHSA-`), CC0 (`GSD-`) |
-| `ecosyste_ms/` | ownership and dependents records adapted from ecosyste.ms | CC BY-SA 4.0 |
-| `deps_dev/` | dependency records from deps.dev | CC BY 4.0 |
+| Package | Contents | Licence | Zenodo |
+|---|---|---|---|
+| `osv/` | npm records from OSV.dev, split by source database | Apache-2.0 (`MAL-`), CC BY 4.0 (`GHSA-`), CC0 (`GSD-`) | [10.5281/zenodo.23300302](https://doi.org/10.5281/zenodo.23300302) |
+| `ecosyste_ms/` | ownership and dependents records adapted from ecosyste.ms | CC BY-SA 4.0 | pending |
+| `deps_dev/` | dependency records from deps.dev | CC BY 4.0 | [10.5281/zenodo.23300151](https://doi.org/10.5281/zenodo.23300151) |
 
 Each package ships its own `NOTICE.md`, licence texts and `SHA256SUMS`. Why they
 are archived rather than re-fetched: npm purged the maintainer records this study
